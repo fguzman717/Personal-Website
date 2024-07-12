@@ -1,1 +1,28 @@
+body {
+  background-color: cyan;
+}
 
+#index img {
+  height: 350px;
+  width: 350px;
+}
+
+.about img {
+  height: 250px;
+  width: 250px;
+}
+
+.portfolio img {
+  height: 250px;
+  width: 250px;
+}
+
+.format {
+  display: flex;
+}
+
+.text {
+  text-align: justify;
+  width: 250px;
+  padding: 50px;
+}
